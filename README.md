@@ -1,2 +1,3 @@
 # hello-world
-New repository.
+
+I want ot learn how to do JS.
